@@ -6,4 +6,6 @@ In this project we had to predict house prices. We had to compare different regr
 
 (c) In the lecture you learned three types of feature selection. Choose two of them and implement at least one method for each. Experimentally evaluate your feature selections. 
 
-(d) For the best performing combination of model and pre-processing steps, implement and plot the so-called learning curve on your own. This was a group project.
+(d) For the best performing combination of model and pre-processing steps, implement and plot the so-called learning curve on your own. 
+
+This was a group project.
