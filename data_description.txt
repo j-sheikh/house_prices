@@ -1,0 +1,61 @@
+LotArea: Lot size in square feet
+
+OverallQual: Rates the overall material and finish of the house
+
+       10	Very Excellent
+       9	Excellent
+       8	Very Good
+       7	Good
+       6	Above Average
+       5	Average
+       4	Below Average
+       3	Fair
+       2	Poor
+       1	Very Poor
+	
+OverallCond: Rates the overall condition of the house
+
+       10	Very Excellent
+       9	Excellent
+       8	Very Good
+       7	Good
+       6	Above Average	
+       5	Average
+       4	Below Average	
+       3	Fair
+       2	Poor
+       1	Very Poor
+		
+YearBuilt: Original construction date
+
+TotalBsmtSF: Total square feet of basement area
+		
+1stFlrSF: First Floor square feet
+ 
+2ndFlrSF: Second floor square feet
+
+GrLivArea: Above grade (ground) living area square feet
+
+FullBath: Full bathrooms above grade
+
+HalfBath: Half baths above grade
+
+BedroomAbvGr: Bedrooms above grade (does NOT include basement bedrooms)
+
+TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
+		
+Fireplaces: Number of fireplaces
+
+GarageArea: Size of garage in square feet
+		
+WoodDeckSF: Wood deck area in square feet
+
+OpenPorchSF: Open porch area in square feet
+
+EnclosedPorch: Enclosed porch area in square feet
+
+3SsnPorch: Three season porch area in square feet
+
+ScreenPorch: Screen porch area in square feet
+
+PoolArea: Pool area in square feet
