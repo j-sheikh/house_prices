@@ -1,3 +1,5 @@
+Project done: January 2021
+
 In this project we had to predict house prices. We had to compare different regression models, to investigate whether a feature selection is reasonable. 
 
 (a) Train at least three different regression models1 and evaluate them with MSE and R2-score. Use cross-validation for evaluating your models. 
